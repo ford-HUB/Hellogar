@@ -137,6 +137,9 @@ a {
 }
 
 /* Project Section Styling */
+.Container {
+    padding-bottom: 10rem;
+}
 .Container h1{
     display: flex;
     justify-content: center;
