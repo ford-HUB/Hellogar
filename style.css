@@ -139,6 +139,8 @@ a {
 /* Project Section Styling */
 .Container {
     padding-bottom: 10rem;
+    box-shadow: 0px 1px 10px 1px slategrey;
+
 }
 .Container h1{
     display: flex;
@@ -152,6 +154,7 @@ a {
 .Project-Container {
     columns: 3;
     display: flex;
+
 }
 
 .Project {
@@ -160,7 +163,9 @@ a {
     padding: 10px;
     border-radius: 10px;
     margin-left: 5rem;
+    box-shadow: 0px 1.4px 5px slategrey;
 }
+
 
 .Project h2 {
     font-size: 24px;
